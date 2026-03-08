@@ -1,1 +1,4 @@
 # git-practice-nezrinn
+Menim baxdigim filmler arasindan aglima gelenlerden "Twilight","Good girls","Ginny and Georgia".
+Meselen baslayaq "Twilight"-dan, sıxıldıqca tekrar tekrar baxdigim filmler arasinda seçilir. Ümumiyyetle adlarını çekdiyim bu filmlerin her birinin mende yaratdigi hiss cox ferqi ve xüsusi olub. "Twilight" esasen bir vampir filmidi, mezmunu qisaca bir qizin bir vampire, vampirinde eyni anda qıza aşiq olması ile heyatları deyişir. Qız sevdiyi oğlanın ve onun vampir ailesinin vampir oldugunu hamidan gizledir ve onlara destek olur.
+Qızın adı "Bella", vampir oglanin ise adi "Edward"-dır. Daha da spoiler vermiyim mencee...
